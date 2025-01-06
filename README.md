@@ -67,7 +67,7 @@ Explain the importance of duty in the Bhagavad Gita.
 What is the role of meditation in the Gita?
 
 
-##Demo
+## Demo
 
 # Simple UI
 
@@ -75,6 +75,10 @@ What is the role of meditation in the Gita?
 
 # Queries and Answers
 
-![Bhagavad Gita](Demo/2.png),![Bhagavad Gita](Demo/3.png),![Bhagavad Gita](Demo/4.png)
+![Bhagavad Gita](Demo/2.png)
+
+![Bhagavad Gita](Demo/3.png)
+
+![Bhagavad Gita](Demo/4.png)
 
 
