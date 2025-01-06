@@ -71,10 +71,10 @@ What is the role of meditation in the Gita?
 
 # Simple UI
 
-![Bhagavad Gita](1.png)
+![Bhagavad Gita](Demo/1.png)
 
 # Queries and Answers
 
-![Bhagavad Gita](2.png),![Bhagavad Gita](3.png),![Bhagavad Gita](4.png)
+![Bhagavad Gita](Demo/2.png),![Bhagavad Gita](Demo/3.png),![Bhagavad Gita](Demo/4.png)
 
 
